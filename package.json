@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
-  "version": "{{ name }}",
-  "description": "{{ name }}",
-  "license": "{{ name }}",
+  "name": "{{ projectName }}",
+  "version": "{{ version }}",
+  "description": "{{ description }}",
+  "license": "{{ license }}",
   "author": "{{author + ' <' + email + '> ' + '(' + github + ')'}}",
   "main": "index.js",
   "scripts": {},
