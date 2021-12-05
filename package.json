@@ -1,0 +1,18 @@
+{
+  "name": "node-test",
+  "version": "0.1.0",
+  "description": "Awesome node modules.",
+  "repository": "zce/node-test",
+  "license": "MIT",
+  "author": "ywanzhou <seecode@qq.com> (https://github.com/ywanzhou)",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12"
+  }
+}
