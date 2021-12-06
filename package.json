@@ -3,7 +3,7 @@
   "version": "{{ version }}",
   "description": "{{ description }}",
   "license": "{{ license }}",
-  "author": "{{author + ' <' + email + '> ' + '(' + github + ')'}}",
+  "author": "{{ author }} <{{ email }}> ({{ github }})",
   "main": "index.js",
   "scripts": {},
   "dependencies": {},
